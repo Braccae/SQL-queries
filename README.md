@@ -1,2 +1,1 @@
-# SQL-queries
-SQL queries 
+Public Data Projects
